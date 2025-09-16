@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "eJ2N1/E/lMMtp24ktHTVgZNA/ub8BkYnxgOAx0KC4e0+Izsl5f0terYkiSMb8TeXpgzMqr6iN/WrJXJNhYcw4A==",
+  "success": true,
+  "projectFilePath": "C:\\temp\\Exampls4COMP306\\Examples4Week2\\Examples4BucketOps\\Examples4BucketOps.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yhli\\.nuget\\packages\\awssdk.core\\3.7.13.1\\awssdk.core.3.7.13.1.nupkg.sha512",
+    "C:\\Users\\yhli\\.nuget\\packages\\awssdk.s3\\3.7.9.50\\awssdk.s3.3.7.9.50.nupkg.sha512",
+    "C:\\Users\\yhli\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.7\\microsoft.windowsdesktop.app.ref.6.0.7.nupkg.sha512",
+    "C:\\Users\\yhli\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.7\\microsoft.netcore.app.ref.6.0.7.nupkg.sha512",
+    "C:\\Users\\yhli\\.nuget\\packages\\microsoft.netcore.app.host.win-arm64\\6.0.7\\microsoft.netcore.app.host.win-arm64.6.0.7.nupkg.sha512",
+    "C:\\Users\\yhli\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.7\\microsoft.aspnetcore.app.ref.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
