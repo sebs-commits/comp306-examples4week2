@@ -1,0 +1,28 @@
+C:\temp\Examples4COMP306\DemoAccessDynamoDB\AccessDynamoDB\bin\Debug\AccessDynamoDB.exe.config
+C:\temp\Examples4COMP306\DemoAccessDynamoDB\AccessDynamoDB\bin\Debug\AccessDynamoDB.exe
+C:\temp\Examples4COMP306\DemoAccessDynamoDB\AccessDynamoDB\bin\Debug\AccessDynamoDB.pdb
+C:\temp\Examples4COMP306\DemoAccessDynamoDB\AccessDynamoDB\bin\Debug\AWSSDK.Core.dll
+C:\temp\Examples4COMP306\DemoAccessDynamoDB\AccessDynamoDB\bin\Debug\AWSSDK.DynamoDBv2.dll
+C:\temp\Examples4COMP306\DemoAccessDynamoDB\AccessDynamoDB\bin\Debug\AWSSDK.Core.pdb
+C:\temp\Examples4COMP306\DemoAccessDynamoDB\AccessDynamoDB\bin\Debug\AWSSDK.Core.xml
+C:\temp\Examples4COMP306\DemoAccessDynamoDB\AccessDynamoDB\bin\Debug\AWSSDK.DynamoDBv2.pdb
+C:\temp\Examples4COMP306\DemoAccessDynamoDB\AccessDynamoDB\bin\Debug\AWSSDK.DynamoDBv2.xml
+C:\temp\Examples4COMP306\DemoAccessDynamoDB\AccessDynamoDB\obj\Debug\AccessDynamoDB.csprojAssemblyReference.cache
+C:\temp\Examples4COMP306\DemoAccessDynamoDB\AccessDynamoDB\obj\Debug\AccessDynamoDB.csproj.CoreCompileInputs.cache
+C:\temp\Examples4COMP306\DemoAccessDynamoDB\AccessDynamoDB\obj\Debug\AccessDynamoDB.csproj.CopyComplete
+C:\temp\Examples4COMP306\DemoAccessDynamoDB\AccessDynamoDB\obj\Debug\AccessDynamoDB.exe
+C:\temp\Examples4COMP306\DemoAccessDynamoDB\AccessDynamoDB\obj\Debug\AccessDynamoDB.pdb
+C:\Centennialcollege\2020Fall\COMP306\Lecture Notes\Week#3\DemoAccessDynamoDB\AccessDynamoDB\bin\Debug\AccessDynamoDB.exe.config
+C:\Centennialcollege\2020Fall\COMP306\Lecture Notes\Week#3\DemoAccessDynamoDB\AccessDynamoDB\bin\Debug\AccessDynamoDB.exe
+C:\Centennialcollege\2020Fall\COMP306\Lecture Notes\Week#3\DemoAccessDynamoDB\AccessDynamoDB\bin\Debug\AccessDynamoDB.pdb
+C:\Centennialcollege\2020Fall\COMP306\Lecture Notes\Week#3\DemoAccessDynamoDB\AccessDynamoDB\bin\Debug\AWSSDK.Core.dll
+C:\Centennialcollege\2020Fall\COMP306\Lecture Notes\Week#3\DemoAccessDynamoDB\AccessDynamoDB\bin\Debug\AWSSDK.DynamoDBv2.dll
+C:\Centennialcollege\2020Fall\COMP306\Lecture Notes\Week#3\DemoAccessDynamoDB\AccessDynamoDB\bin\Debug\AWSSDK.Core.pdb
+C:\Centennialcollege\2020Fall\COMP306\Lecture Notes\Week#3\DemoAccessDynamoDB\AccessDynamoDB\bin\Debug\AWSSDK.Core.xml
+C:\Centennialcollege\2020Fall\COMP306\Lecture Notes\Week#3\DemoAccessDynamoDB\AccessDynamoDB\bin\Debug\AWSSDK.DynamoDBv2.pdb
+C:\Centennialcollege\2020Fall\COMP306\Lecture Notes\Week#3\DemoAccessDynamoDB\AccessDynamoDB\bin\Debug\AWSSDK.DynamoDBv2.xml
+C:\Centennialcollege\2020Fall\COMP306\Lecture Notes\Week#3\DemoAccessDynamoDB\AccessDynamoDB\obj\Debug\AccessDynamoDB.csprojAssemblyReference.cache
+C:\Centennialcollege\2020Fall\COMP306\Lecture Notes\Week#3\DemoAccessDynamoDB\AccessDynamoDB\obj\Debug\AccessDynamoDB.csproj.CoreCompileInputs.cache
+C:\Centennialcollege\2020Fall\COMP306\Lecture Notes\Week#3\DemoAccessDynamoDB\AccessDynamoDB\obj\Debug\AccessDynamoDB.csproj.CopyComplete
+C:\Centennialcollege\2020Fall\COMP306\Lecture Notes\Week#3\DemoAccessDynamoDB\AccessDynamoDB\obj\Debug\AccessDynamoDB.exe
+C:\Centennialcollege\2020Fall\COMP306\Lecture Notes\Week#3\DemoAccessDynamoDB\AccessDynamoDB\obj\Debug\AccessDynamoDB.pdb

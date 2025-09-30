@@ -1,0 +1,84 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\temp\\Exampls4COMP306\\DemoDynamoDB\\DemoAccessDynamoDB\\DemoObjectPersistentModel\\DemoObjectPersistentModel.csproj": {}
+  },
+  "projects": {
+    "C:\\temp\\Exampls4COMP306\\DemoDynamoDB\\DemoAccessDynamoDB\\DemoObjectPersistentModel\\DemoObjectPersistentModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\temp\\Exampls4COMP306\\DemoDynamoDB\\DemoAccessDynamoDB\\DemoObjectPersistentModel\\DemoObjectPersistentModel.csproj",
+        "projectName": "DemoObjectPersistentModel",
+        "projectPath": "C:\\temp\\Exampls4COMP306\\DemoDynamoDB\\DemoAccessDynamoDB\\DemoObjectPersistentModel\\DemoObjectPersistentModel.csproj",
+        "packagesPath": "C:\\Users\\yhli\\.nuget\\packages\\",
+        "outputPath": "C:\\temp\\Exampls4COMP306\\DemoDynamoDB\\DemoAccessDynamoDB\\DemoObjectPersistentModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\yhli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/ICET4COMP367/_packaging/ICET4COMP367/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/ICETCOMP367/_packaging/feed4sec002/nuget/v3/index.json": {},
+          "https://pkgs.dev.azure.com/ICETCOMP367/_packaging/myfeed/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AWSSDK.DynamoDBv2": {
+              "target": "Package",
+              "version": "[3.7.0.71, )"
+            },
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[6.0.0-preview.3.21201.4, )"
+            },
+            "System.Data.DataSetExtensions": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

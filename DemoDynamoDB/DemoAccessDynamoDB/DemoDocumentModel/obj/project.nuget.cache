@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "k0BAISN9Miul/JvYpepk8KsKZnlgG1YNoe+57iyZ9GeEIH2msnnwlcRrc/Ih75xv40sDlbpAei9w3W285w1wtA==",
+  "success": true,
+  "projectFilePath": "C:\\temp\\Exampls4COMP306\\DemoDynamoDB\\DemoAccessDynamoDB\\DemoDocumentModel\\DemoDocumentModel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yhli\\.nuget\\packages\\awssdk.core\\3.7.0.22\\awssdk.core.3.7.0.22.nupkg.sha512",
+    "C:\\Users\\yhli\\.nuget\\packages\\awssdk.dynamodbv2\\3.7.0.22\\awssdk.dynamodbv2.3.7.0.22.nupkg.sha512",
+    "C:\\Users\\yhli\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\yhli\\.nuget\\packages\\microsoft.netcore.platforms\\6.0.0-preview.3.21201.4\\microsoft.netcore.platforms.6.0.0-preview.3.21201.4.nupkg.sha512",
+    "C:\\Users\\yhli\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0-preview.3.21201.4\\microsoft.win32.systemevents.6.0.0-preview.3.21201.4.nupkg.sha512",
+    "C:\\Users\\yhli\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0-preview.3.21201.4\\system.configuration.configurationmanager.6.0.0-preview.3.21201.4.nupkg.sha512",
+    "C:\\Users\\yhli\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512",
+    "C:\\Users\\yhli\\.nuget\\packages\\system.drawing.common\\6.0.0-preview.3.21201.4\\system.drawing.common.6.0.0-preview.3.21201.4.nupkg.sha512",
+    "C:\\Users\\yhli\\.nuget\\packages\\system.security.accesscontrol\\6.0.0-preview.3.21201.4\\system.security.accesscontrol.6.0.0-preview.3.21201.4.nupkg.sha512",
+    "C:\\Users\\yhli\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0-preview.3.21201.4\\system.security.cryptography.protecteddata.6.0.0-preview.3.21201.4.nupkg.sha512",
+    "C:\\Users\\yhli\\.nuget\\packages\\system.security.permissions\\6.0.0-preview.3.21201.4\\system.security.permissions.6.0.0-preview.3.21201.4.nupkg.sha512",
+    "C:\\Users\\yhli\\.nuget\\packages\\system.security.principal.windows\\6.0.0-preview.3.21201.4\\system.security.principal.windows.6.0.0-preview.3.21201.4.nupkg.sha512",
+    "C:\\Users\\yhli\\.nuget\\packages\\system.windows.extensions\\6.0.0-preview.3.21201.4\\system.windows.extensions.6.0.0-preview.3.21201.4.nupkg.sha512"
+  ],
+  "logs": []
+}

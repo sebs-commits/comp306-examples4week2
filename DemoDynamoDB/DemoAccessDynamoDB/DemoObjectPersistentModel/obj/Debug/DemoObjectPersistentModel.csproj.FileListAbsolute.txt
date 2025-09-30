@@ -1,0 +1,28 @@
+C:\temp\Examples4COMP306\DemoAccessDynamoDB\DemoObjectPersistentModel\bin\Debug\DemoObjectPersistentModel.exe.config
+C:\temp\Examples4COMP306\DemoAccessDynamoDB\DemoObjectPersistentModel\bin\Debug\DemoObjectPersistentModel.exe
+C:\temp\Examples4COMP306\DemoAccessDynamoDB\DemoObjectPersistentModel\bin\Debug\DemoObjectPersistentModel.pdb
+C:\temp\Examples4COMP306\DemoAccessDynamoDB\DemoObjectPersistentModel\bin\Debug\AWSSDK.Core.dll
+C:\temp\Examples4COMP306\DemoAccessDynamoDB\DemoObjectPersistentModel\bin\Debug\AWSSDK.DynamoDBv2.dll
+C:\temp\Examples4COMP306\DemoAccessDynamoDB\DemoObjectPersistentModel\bin\Debug\AWSSDK.Core.pdb
+C:\temp\Examples4COMP306\DemoAccessDynamoDB\DemoObjectPersistentModel\bin\Debug\AWSSDK.Core.xml
+C:\temp\Examples4COMP306\DemoAccessDynamoDB\DemoObjectPersistentModel\bin\Debug\AWSSDK.DynamoDBv2.pdb
+C:\temp\Examples4COMP306\DemoAccessDynamoDB\DemoObjectPersistentModel\bin\Debug\AWSSDK.DynamoDBv2.xml
+C:\temp\Examples4COMP306\DemoAccessDynamoDB\DemoObjectPersistentModel\obj\Debug\DemoObjectPersistentModel.csprojAssemblyReference.cache
+C:\temp\Examples4COMP306\DemoAccessDynamoDB\DemoObjectPersistentModel\obj\Debug\DemoObjectPersistentModel.csproj.CoreCompileInputs.cache
+C:\temp\Examples4COMP306\DemoAccessDynamoDB\DemoObjectPersistentModel\obj\Debug\DemoObjectPersistentModel.csproj.CopyComplete
+C:\temp\Examples4COMP306\DemoAccessDynamoDB\DemoObjectPersistentModel\obj\Debug\DemoObjectPersistentModel.exe
+C:\temp\Examples4COMP306\DemoAccessDynamoDB\DemoObjectPersistentModel\obj\Debug\DemoObjectPersistentModel.pdb
+C:\Centennialcollege\2020Fall\COMP306\Lecture Notes\Week#3\DemoAccessDynamoDB\DemoObjectPersistentModel\bin\Debug\DemoObjectPersistentModel.exe.config
+C:\Centennialcollege\2020Fall\COMP306\Lecture Notes\Week#3\DemoAccessDynamoDB\DemoObjectPersistentModel\bin\Debug\DemoObjectPersistentModel.exe
+C:\Centennialcollege\2020Fall\COMP306\Lecture Notes\Week#3\DemoAccessDynamoDB\DemoObjectPersistentModel\bin\Debug\DemoObjectPersistentModel.pdb
+C:\Centennialcollege\2020Fall\COMP306\Lecture Notes\Week#3\DemoAccessDynamoDB\DemoObjectPersistentModel\bin\Debug\AWSSDK.Core.dll
+C:\Centennialcollege\2020Fall\COMP306\Lecture Notes\Week#3\DemoAccessDynamoDB\DemoObjectPersistentModel\bin\Debug\AWSSDK.DynamoDBv2.dll
+C:\Centennialcollege\2020Fall\COMP306\Lecture Notes\Week#3\DemoAccessDynamoDB\DemoObjectPersistentModel\bin\Debug\AWSSDK.Core.pdb
+C:\Centennialcollege\2020Fall\COMP306\Lecture Notes\Week#3\DemoAccessDynamoDB\DemoObjectPersistentModel\bin\Debug\AWSSDK.Core.xml
+C:\Centennialcollege\2020Fall\COMP306\Lecture Notes\Week#3\DemoAccessDynamoDB\DemoObjectPersistentModel\bin\Debug\AWSSDK.DynamoDBv2.pdb
+C:\Centennialcollege\2020Fall\COMP306\Lecture Notes\Week#3\DemoAccessDynamoDB\DemoObjectPersistentModel\bin\Debug\AWSSDK.DynamoDBv2.xml
+C:\Centennialcollege\2020Fall\COMP306\Lecture Notes\Week#3\DemoAccessDynamoDB\DemoObjectPersistentModel\obj\Debug\DemoObjectPersistentModel.csprojAssemblyReference.cache
+C:\Centennialcollege\2020Fall\COMP306\Lecture Notes\Week#3\DemoAccessDynamoDB\DemoObjectPersistentModel\obj\Debug\DemoObjectPersistentModel.csproj.CoreCompileInputs.cache
+C:\Centennialcollege\2020Fall\COMP306\Lecture Notes\Week#3\DemoAccessDynamoDB\DemoObjectPersistentModel\obj\Debug\DemoObjectPersistentModel.csproj.CopyComplete
+C:\Centennialcollege\2020Fall\COMP306\Lecture Notes\Week#3\DemoAccessDynamoDB\DemoObjectPersistentModel\obj\Debug\DemoObjectPersistentModel.exe
+C:\Centennialcollege\2020Fall\COMP306\Lecture Notes\Week#3\DemoAccessDynamoDB\DemoObjectPersistentModel\obj\Debug\DemoObjectPersistentModel.pdb
